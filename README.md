@@ -90,7 +90,7 @@ The goal of StudyFlow AI is to make academic planning easier by combining task m
 
 ## 👩‍💻 Developer
 
-**Developed by:** Niharika
+**Developed by:** Dasari Niharika
 
 **GitHub:** [dasaridniharika-dotcom](https://github.com/dasaridniharika-dotcom)
 
